@@ -1,0 +1,25 @@
+Drill report for esp32_soil_moisture_sensor.kicad_pcb
+Created on 6/2/2023 10:04:09 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'esp32_soil_moisture_sensor-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (146 holes)
+    T2  0.650mm  0.0256"  (4 holes)  (with 4 slots)
+    T3  1.600mm  0.0630"  (1 hole)
+
+    Total plated holes count 151
+
+
+Drill file 'esp32_soil_moisture_sensor-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (7 holes)
+
+    Total unplated holes count 7
