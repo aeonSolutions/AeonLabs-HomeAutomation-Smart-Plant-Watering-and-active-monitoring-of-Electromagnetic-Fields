@@ -19,7 +19,7 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)  >>  Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED
 
 
-# Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED
+# Indoor Smart Plant Watering, EMF & Sound detector RGB UV IR LED
 
 buy on [Tindie.com](https://www.tindie.com/products/aeonlabs/smart-concrete-strength-monitor/) or on [Gumroad.com](https://3455782655596.gumroad.com/l/smartconcretemonitor)
 
