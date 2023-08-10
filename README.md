@@ -21,17 +21,53 @@
 
 # Indoor Smart Plant Watering , EMF & Sound deterctor RGB UV IR LED
 
-[<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
+buy on [Tindie.com](https://www.tindie.com/products/aeonlabs/smart-concrete-strength-monitor/) or on [Gumroad.com](https://3455782655596.gumroad.com/l/smartconcretemonitor)
 
 <br>
 
+_____________________________________________________________________________________________
+If you prefer, can read this project on ....
 
+- Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/)
+- Hackster.io website [here](https://www.hackster.io/mtpsilva).
+- Medium.com webiste [here](https://medium.com/@mtpsilva)
+
+_____________________________________________________________________________________________
+
+<br>
+ 
 <p align="center">
     <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields/blob/main/media/photo_front.jpg" width="45%">
     <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields/blob/main/media/photo_back.jpg" width="45%">
 
 </p>
 
+<br>
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+  Fully working.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+
+</p>
+
+<br>
+
+## OEM Firmware code
+The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions made available here.  
+
+This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+
+<br>
+
+### Now selling on Tindie.com
+
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie ready to install and use. |
+|-------------|------|
+
+<br />
+</br>
 
 ## Compatibility
 
