@@ -24,7 +24,15 @@
 [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_amazing_small.jpg" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/)
 
 <br>
- 
+
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields/blob/main/media/photo_front.jpg" width="45%">
+    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields/blob/main/media/photo_back.jpg" width="45%">
+
+</p>
+
+
 ## Compatibility
 
 <p align="center">
