@@ -58,6 +58,14 @@
 <br />
 <br />
 
+## PCB design 
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-Plant-Watering-and-active-monitoring-of-Electromagnetic-Fields/blob/main/media/pcb_front.png" width="95%">
+</p>
+
+<br>
+
 ## Circuit Schematic
 
 <p align="center">
