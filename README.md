@@ -44,13 +44,13 @@ ________________________________________________________________________________
 
 <br>
 
-The smart safety & health solution, is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
+The smart safety & health solution is for the kind of wireless aggression that behaves like ripples in a pond. For instance Wireless electromagnetic radios, including those found on smartphones, tablets, wifi routers at home, and many more.
 
 **This smart device is not able to detect wireless aggressions targeted to a person's body and individual. For instance, using some kind of beam-forming device or technologies**. For example, Laser and laser-like kind of devices and kind of technologies. 
 
-**When installing this smart solution, take action and be conscient the aggression/aggressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
+**When installing this smart solution, take action and be conscious that the aggression/aggressor may change to other types and kinds of "wireless devices" these smart devices below are unable to detect**.  
 
-**Always use this smart device connected to a public data repository with LIVE data streams. While at the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
+**Always use this smart device connected to a public data repository with LIVE data streams. At the same time, notify the authorities immediately and provide the web address link where the public data repository can be found**. Data repositories based on Harvard's www.dataverse.org are currently the most suited (not ideal) for the smart solutions provided below. 
 
 **Be advised**
 
@@ -73,9 +73,9 @@ Known open data repositories partially compatible with these smart devices:
 <br>
 
 ## OEM Firmware code
-The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates it self when newer updated versions made available here.  
+The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning the smart concrete curing device automatically updates itself when newer updated versions are made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
 <br>
 
@@ -85,25 +85,24 @@ This code uses my own ESP32 c++ class libraries to expedite development of code 
 |-------------|------|
 
 <br />
-</br>
 
 ## Compatibility
 
 <p align="center">
  <a href"https://www.apple.com/shop/accessories/all/homekit">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
  </a>
 <a href="https://home.google.com"> 
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
  </a>
 <a href="https://www.home-assistant.io">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
  </a>
 <a href="https://csa-iot.org/all-solutions/matter/">  
- <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
  </a>
 </p>
 
